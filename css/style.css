@@ -1,0 +1,57 @@
+* {
+  font-family: Roboto;
+}
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  padding-top: 50px;
+}
+.footer {
+  background-color: #222222;
+  color: white;
+  padding: 10px;
+} 
+.jumbotron {
+  text-align: center;
+  background-color: #2098D1;
+  color: #FFFFFF;
+}
+.main {
+  padding-top: 20px;
+  text-align: center;
+}
+figcaption {
+  text-align: center;
+  margin: auto;
+}
+
+
+.port {
+  width: 255px;
+  height: 160px;
+  margin: auto;
+}
+
+th {
+  text-align: center;
+}
+
+
+.know tr {
+  font-size: 16pt;
+}
+
+.blog {
+  text-align: left;
+}
+
+.footer a {
+  text-decoration: none;
+  color:white;
+}
+
+.clickable-row {
+  cursor: pointer;
+}
